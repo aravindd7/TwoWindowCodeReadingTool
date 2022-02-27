@@ -1,1 +1,2 @@
-# TwoWindowCodeReadingTool
+# Code Reading App
+
